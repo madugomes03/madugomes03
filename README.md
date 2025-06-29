@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Bem-vindo(a) ao meu cantinho no GitHub 👩‍💻</b><br>
+  <b>Bem-vindo(a) ao meu cantinho no GitHub </b><br>
   🚀 Em jornada para me tornar uma desenvolvedora de software!
 </p>
 
