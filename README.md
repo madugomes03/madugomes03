@@ -39,10 +39,9 @@
 
 ---
 
-## 💬 Vamos conversar!
+## Redes Sociais!
 
-- 💌 Me chame para colaborar em projetos, estudar juntos ou só trocar ideia!
-- ✨ A cada linha de código, um novo passo rumo aos meus sonhos!
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Em+construção...+Mas+com+vontade!+%F0%9F%9A%80;Vamos+crescer+juntos!+%F0%9F%92%BB" />
