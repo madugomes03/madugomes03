@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, Mundo! 🌎✨</h1>
+<h1 align="center">Hello, World! Me chamo Maria Eduarda 🌎✨</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
@@ -14,10 +14,10 @@
 
 ## 👩‍🎓 Sobre mim
 
-🎓 Estudante de **Engenharia de Software** – 1º semestre  
+🎓 Estudante de **Engenharia de Software**  
 📍 Brasil  
 💡 Apaixonada por tecnologia e criação de projetos incríveis  
-📚 Atualmente aprendendo: `Python` | `JavaScript` | `HTML & CSS`
+📚 Atualmente aprendendo: `Python`
 
 ---
 
