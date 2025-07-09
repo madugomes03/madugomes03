@@ -15,7 +15,7 @@
 ##  Sobre mim
 
 🎓 Estudante de **Engenharia de Software**  
-📍 Brasil
+📍 Brasil 
 📚 Atualmente aprendendo: `Python`
 
 ---
