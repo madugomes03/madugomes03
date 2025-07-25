@@ -5,12 +5,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  🚀 Em jornada para me tornar uma desenvolvedora de software!
-</p>
-
----
-
 ##  Sobre mim
 
 🎓 Estudante de **Engenharia de Software**  
