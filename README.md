@@ -1,9 +1,6 @@
 
-<h1 align="center">Hello, World! Me chamo Maria Eduarda </h1>
+<h1 align="center">Maria Eduarda Gomes - Estudante de Engenharia de Software </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
 
 ##  Sobre mim
 
