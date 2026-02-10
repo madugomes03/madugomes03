@@ -7,7 +7,6 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Estudando-brightgreen?style=for-the-badge" alt="Status">
     <img src="https://img.shields.io/badge/Foco-Java-orange?style=for-the-badge&logo=java&logoColor=white" alt="Foco Atual">
   </p>
 </div>
