@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Olá, eu sou a Maria Eduarda! 👋</h1>
+  <h1>Olá, eu sou a Maria Eduarda! </h1>
   
   <p align="center">
-    <strong>Estudante de Engenharia de Software @ UCB</strong><br>
+    <strong>Estudante de Engenharia de Software pela Universidade Católica de Brasília</strong><br>
     📍 Brasília, Brasil
   </p>
 
@@ -11,18 +11,6 @@
     <img src="https://img.shields.io/badge/Foco-Java-orange?style=for-the-badge&logo=java&logoColor=white" alt="Foco Atual">
   </p>
 </div>
-
----
-
-### 🚀 Sobre Mim
-
-Olá! Sou estudante do **3º semestre de Engenharia de Software** na Universidade Católica de Brasília (UCB). 🎓
-
-* 💻 Atualmente focado em dominar **Java** e entender a fundo a Programação Orientada a Objetos.
-* 🌐 Desenvolvendo projetos para fortalecer meus conhecimentos em **Front-end** (HTML, CSS e JS) e **Python**.
-* 🔍 Buscando oportunidades de estágio para aplicar meus conhecimentos acadêmicos em problemas do mundo real e evoluir como desenvolvedora.
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
