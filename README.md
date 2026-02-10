@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94dmR6YmRreHh6cjZueHh6cjZueHh6cjZueHh6cjZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1T9vCjR0QxNEm0GSh/giphy.gif"  />
   <h1>Olá, eu sou a Maria Eduarda! 👋</h1>
   
   <p align="center">
@@ -17,7 +16,7 @@
 
 ### 🚀 Sobre Mim
 
-Atualmente, estou mergulhando no ecossistema **Java** e aprimorando minhas habilidades em desenvolvimento de software. Gosto de transformar ideias em linhas de código e estou sempre em busca de novos desafios técnicos.
+Sou estudante do 3º semestre de engenharia de software na Universidade Católica de Brasília (UCB) 
 
 ---
 
@@ -45,5 +44,5 @@ Aqui estão as tecnologias que compõem meu stack de estudos:
 ---
 
 <div align="center">
-  <sub>Feito com ❤️ por Maria Eduarda Gomes</sub>
+  
 </div>
