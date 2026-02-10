@@ -12,6 +12,18 @@
   </p>
 </div>
 
+---
+
+### 🚀 Sobre Mim
+
+Sou estudante do **3º semestre de Engenharia de Software na UCB**. Atualmente, estou focada em construir uma base sólida em desenvolvimento de software, com ênfase em:
+
+*  **Backend:** Aprofundando conhecimentos em Java e Programação Orientada a Objetos (POO).
+*  **Lógica e Automação:** Praticando algoritmos com Python.
+*  **Web:** Construindo interfaces funcionais com HTML, CSS e JavaScript.
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
@@ -24,11 +36,11 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madugomes03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madugomes03&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -39,7 +51,7 @@
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU-EMAIL@AQUI.com">
+  <a href="mailto:mariaeduardagms39@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
