@@ -16,7 +16,7 @@
 
 ###  Sobre Mim
 
-Sou estudante do **3º semestre de Engenharia de Software na UCB**. Atualmente, meu foco está em **Python** e **Cibersegurança**, construindo uma base sólida para atuar na área de segurança da informação, com ênfase em:
+Sou estudante do **4º semestre de Engenharia de Software na UCB**. Atualmente, meu foco está em **Python** e **Cibersegurança**, construindo uma base sólida para atuar na área de segurança da informação, com ênfase em:
 
 * 🐍 **Python:** Desenvolvimento de scripts e ferramentas para automação e análise de segurança.
 * 🔐 **Cibersegurança:** Estudando fundamentos de segurança, redes, criptografia e boas práticas de desenvolvimento seguro.
