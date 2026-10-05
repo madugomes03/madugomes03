@@ -14,18 +14,16 @@
 
 ---
 
-### 🚀 Sobre Mim
+###  Sobre Mim
 
 Sou estudante do **3º semestre de Engenharia de Software na UCB**. Atualmente, meu foco está em **Python** e **Cibersegurança**, construindo uma base sólida para atuar na área de segurança da informação, com ênfase em:
 
 * 🐍 **Python:** Desenvolvimento de scripts e ferramentas para automação e análise de segurança.
 * 🔐 **Cibersegurança:** Estudando fundamentos de segurança, redes, criptografia e boas práticas de desenvolvimento seguro.
 * ☕ **Base em Engenharia de Software:** Java e Programação Orientada a Objetos (POO).
-* 🌐 **Web:** HTML, CSS e JavaScript, para entender como aplicações funcionam (e como são atacadas e protegidas).
-
 ---
 
-### 🎯 Em Estudo
+###  Em Estudo
 
 * Fundamentos de redes e protocolos (TCP/IP, HTTP, DNS)
 * Criptografia e hashing
@@ -35,7 +33,7 @@ Sou estudante do **3º semestre de Engenharia de Software na UCB**. Atualmente, 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,7 +47,7 @@ Sou estudante do **3º semestre de Engenharia de Software na UCB**. Atualmente, 
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madugomes03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -58,7 +56,7 @@ Sou estudante do **3º semestre de Engenharia de Software na UCB**. Atualmente, 
 
 ---
 
-### 📫 Conecte-se comigo
+###  Conecte-se comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
